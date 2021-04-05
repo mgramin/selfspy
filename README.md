@@ -1,0 +1,2 @@
+# selfspy
+Selfhosted SchemaSpy
